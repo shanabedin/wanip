@@ -1,0 +1,2 @@
+# wanip
+Detect wan IP.
